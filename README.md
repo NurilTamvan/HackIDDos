@@ -1,2 +1,0 @@
-# HackIDDos
-Tooos DDOS attack
